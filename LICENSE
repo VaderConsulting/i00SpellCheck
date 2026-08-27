@@ -1,0 +1,63 @@
+i00 Spell Check and Control Extensions
+Copyright © i00 Productions / Kris Bennett
+
+This tree is third-party i00 Productions source (not VaderConsulting / Dave Robinson
+original work). File headers in this 2015 working copy state:
+
+  All property in this file is and remains the property of i00 Productions,
+  regardless of its usage, unless stated otherwise in writing from i00 Productions.
+
+  Anyone wishing to use this code in their projects may do so, however are
+  required to leave a post on VBForums (under:
+  http://www.vbforums.com/showthread.php?p=4075093) stating that they are doing so.
+  A simple "I am using i00 Spell check in my project" will suffice.
+
+  i00 is not and shall not be held accountable for any damages directly or
+  indirectly caused by the use or miss-use of this product. This product is only
+  a component and thus is intended to be used as part of other software.
+
+Later upstream (https://github.com/i00/i00SpellCheck) publishes the following
+MIT license (contact: KrisBennett@i00Productions.org). This repository does not
+relicense the tree as VaderConsulting MIT.
+
+---
+
+License Copyright: i00 (Kris Bennett)
+License License: MIT License
+License Contact: KrisBennett@i00Productions.org
+
+i00 SpellCheck is licenced under the MIT licence.
+If you wish to use ANY part of this spell checker in your projects you must
+first state that you are going to use it in a post in the issues part of:
+ https://github.com/i00/i00SpellCheck/issues
+ (be sure to add the label "using in my project")
+
+All content in the i00SpellCheck project is, and remains, the property of i00
+Productions, regardless of its usage.
+
+i00 holds no responsibility for damages due to the use of this product.
+
+This product is only a component and thus is intended to be used as part of
+other software, it is not a complete software package, thus i00 Productions is
+not responsible for any legal ramifications that any software using this
+product breaches.
+
+Copyright 2012- i00 (Kris Bennett)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
