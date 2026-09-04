@@ -31,6 +31,10 @@ Solution folders also include **Plugins**, **3rd Party**, **Components**, and **
 
 Open `SpellCheck.sln` in Visual Studio 2012 or later (solution format 12.00 / Visual Studio 2012; `.vbproj` ToolsVersion 3.5, ProductVersion 9.0.21022 / VS 2008; `CSharpTest.csproj` ToolsVersion 4.0 after upgrade). All listed projects target .NET Framework 3.5 WinForms. Build `i00SpellCheck` first, then plugins and tests. `Test` and `WordDictionaryTest` need the `Backup/Tests/` copies (or a restored zip) because the live folders were truncated in the OneDrive download.
 
+## Requirements
+
+- Visual Studio 2008 to 2012, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `i00SpellCheck`.
