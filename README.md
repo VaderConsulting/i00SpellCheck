@@ -1,6 +1,6 @@
 # i00SpellCheck
 
-I00 Spell Check is a stand-alone VB.NET WinForms spell-check and control-extension library by Kris Bennett (i00 Productions). It adds offline, no-Word, no-network spell checking to `TextBox` / `RichTextBox` / `DataGridView` (and plugins for `Label`, FastColoredTextBox, printing, translation, and speech) via `EnableControlExtensions()` / `EnableSpellCheck`. The third-party tree (assembly title Spell Check, company i00 Productions); there is no separable VaderConsulting wrapper.
+i00 Spell Check is a stand-alone VB.NET WinForms spell-check and control-extension library by Kris Bennett (i00 Productions). It adds offline, no-Word, no-network spell checking to `TextBox` / `RichTextBox` / `DataGridView` (and plugins for `Label`, FastColoredTextBox, printing, translation, and speech) via `EnableControlExtensions()` / `EnableSpellCheck`. Third-party tree (assembly title Spell Check, company i00 Productions); there is no separable VaderConsulting wrapper.
 
 **Source last updated:** 2015-06-20 · **Language:** VB.NET (plus C# test) · **Target:** .NET Framework 3.5 · **Output:** WinForms exe (`i00SpellCheck.exe`, also referenced as the library) + plugin and test exes
 
