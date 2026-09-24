@@ -37,7 +37,7 @@ Open `SpellCheck.sln` in Visual Studio 2012 or later (solution format 12.00 / Vi
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `i00SpellCheck`.
+Working copy from my Historical Dev folder `i00SpellCheck`.
 
 - **Author:** Kris Bennett, i00 Productions
 - **Assembly title / product:** Spell Check
