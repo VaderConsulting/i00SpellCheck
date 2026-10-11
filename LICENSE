@@ -1,7 +1,7 @@
 i00 Spell Check and Control Extensions
 Copyright © i00 Productions / Kris Bennett
 
-This tree is third-party i00 Productions source (not VaderConsulting / Dave Robinson
+This tree is third-party i00 Productions source (not Vader Consulting / Dave Robinson
 original work). File headers in this 2015 working copy state:
 
   All property in this file is and remains the property of i00 Productions,
@@ -18,7 +18,7 @@ original work). File headers in this 2015 working copy state:
 
 Later upstream (https://github.com/i00/i00SpellCheck) publishes the following
 MIT license (contact: KrisBennett@i00Productions.org). This repository does not
-relicense the tree as VaderConsulting MIT.
+relicense the tree as Vader Consulting MIT.
 
 ---
 

@@ -1,6 +1,6 @@
 # i00SpellCheck
 
-i00 Spell Check is a stand-alone VB.NET WinForms spell-check and control-extension library by Kris Bennett (i00 Productions). It adds offline, no-Word, no-network spell checking to `TextBox` / `RichTextBox` / `DataGridView` (and plugins for `Label`, FastColoredTextBox, printing, translation, and speech) via `EnableControlExtensions()` / `EnableSpellCheck`. Third-party tree (assembly title Spell Check, company i00 Productions); there is no separable VaderConsulting wrapper.
+i00 Spell Check is a stand-alone VB.NET WinForms spell-check and control-extension library by Kris Bennett (i00 Productions). It adds offline, no-Word, no-network spell checking to `TextBox` / `RichTextBox` / `DataGridView` (and plugins for `Label`, FastColoredTextBox, printing, translation, and speech) via `EnableControlExtensions()` / `EnableSpellCheck`. Third-party tree (assembly title Spell Check, company i00 Productions); there is no separable Vader Consulting wrapper.
 
 **Source last updated:** 2015-06-20 · **Language:** VB.NET (plus C# test) · **Target:** .NET Framework 3.5 · **Output:** WinForms exe (`i00SpellCheck.exe`, also referenced as the library) + plugin and test exes
 
@@ -50,4 +50,4 @@ VS `.suo` / `.user` files were in the zip and are gitignored. `bin/` and `obj/` 
 
 ## License
 
-Original **i00 Productions** terms (file headers + later MIT as published on GitHub by Kris Bennett). This repository does **not** relicense the tree as VaderConsulting MIT. There is no separable Dave Robinson wrapper. See `LICENSE` and `THIRD_PARTY_NOTICES.md`.
+Original **i00 Productions** terms (file headers + later MIT as published on GitHub by Kris Bennett). This repository does **not** relicense the tree as Vader Consulting MIT. There is no separable Dave Robinson wrapper. See `LICENSE` and `THIRD_PARTY_NOTICES.md`.
